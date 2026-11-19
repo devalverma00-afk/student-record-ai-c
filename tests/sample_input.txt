@@ -1,0 +1,65 @@
+========== SAMPLE INPUT ==========
+
+Student 1
+
+SAP ID: 590034319
+Roll Number: 19
+Name: Deval Verma
+Phone Number: 9316135520
+Email ID: deval@gmail.com
+Year: 1
+Current Semester: 2
+Semester 1 SGPA: 9.2
+Semester 2 SGPA: 9.4
+
+
+Student 2
+
+SAP ID: 590034320
+Roll Number: 20
+Name: Rahul Sharma
+Phone Number: 9876543211
+Email ID: rahul@gmail.com
+Year: 1
+Current Semester: 2
+Semester 1 SGPA: 8.0
+Semester 2 SGPA: 8.4
+
+
+Student 3
+
+SAP ID: 590034321
+Roll Number: 21
+Name: Aman Singh
+Phone Number: 9876543212
+Email ID: aman@gmail.com
+Year: 1
+Current Semester: 2
+Semester 1 SGPA: 6.5
+Semester 2 SGPA: 6.9
+
+
+Student 4
+
+SAP ID: 590034322
+Roll Number: 22
+Name: Rohan Gupta
+Phone Number: 9876543213
+Email ID: rohan@gmail.com
+Year: 1
+Current Semester: 2
+Semester 1 SGPA: 5.5
+Semester 2 SGPA: 5.9
+
+
+Student 5
+
+SAP ID: 590034323
+Roll Number: 23
+Name: Aryan Kumar
+Phone Number: 9876543214
+Email ID: aryan@gmail.com
+Year: 1
+Current Semester: 2
+Semester 1 SGPA: 7.5
+Semester 2 SGPA: 7.9

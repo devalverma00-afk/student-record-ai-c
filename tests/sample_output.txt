@@ -1,0 +1,55 @@
+========== SAMPLE OUTPUT ==========
+
+Student 1
+
+Name: Deval Verma
+SAP ID: 590034319
+CGPA: 9.30
+
+Academic Recommendation:
+Excellent Performance!
+Maintain your current study pattern.
+
+
+Student 2
+
+Name: Rahul Sharma
+SAP ID: 590034320
+CGPA: 8.20
+
+Academic Recommendation:
+Good Performance!
+Keep working consistently and focus on weaker subjects.
+
+
+Student 3
+
+Name: Aman Singh
+SAP ID: 590034321
+CGPA: 6.70
+
+Academic Recommendation:
+Needs Improvement!
+Focus more on subjects with lower SGPA and practice regularly.
+
+
+Student 4
+
+Name: Rohan Gupta
+SAP ID: 590034322
+CGPA: 5.70
+
+Academic Recommendation:
+Requires Immediate Attention!
+Create a structured study plan and seek academic guidance.
+
+
+Student 5
+
+Name: Aryan Kumar
+SAP ID: 590034323
+CGPA: 7.70
+
+Academic Recommendation:
+Good Performance!
+Keep working consistently and focus on weaker subjects.
